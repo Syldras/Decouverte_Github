@@ -6,7 +6,7 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
 - * Facile à convertir* : peut être exporté en HTML, PDF, Word et d'autres formats
 - *Lisible en texte brut* : le contenu reste compréhensible sans logiciel spécialisé.
 - *Polyvalent* : pratique pour
-  - les notes, bla
+  - les notes, Modif ok ?
   - les articles,
   - les rapports et
   - la documentation.
