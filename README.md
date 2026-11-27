@@ -9,7 +9,7 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
   - les notes, Modif ok ?
   - les articles,
   - les rapports et
-  - la documentation
+  - la documentation : jdkdkdkdkdkd
   - *Compatible* avec de nombreux éditeurs de texte et utilisable sur différentes plateformes.
 Petit mémo [ici](https://www.markdownlang.com/fr/cheatsheet/)
 jhjh
